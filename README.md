@@ -1,7 +1,8 @@
 ### Hi there 👋
-### I'm currently working on building my portfolio website. ⚒
-### I'm currently learning ReactJs, NextJs and Redux. 🧾
-### Email📨: anshultated1999@gmail.com
+### I am a front-end developer 💻
+### I'm currently working on building my portfolio website ⚒
+### I'm currently learning ReactJs, NextJs and Redux 🧾
+### Email 📨: anshultated1999@gmail.com
 
 <!--
 **anshuul/anshuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
